@@ -1,0 +1,19 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+bin
+/.vs
+/node_modules
+obj
+/_ReSharper.Caches
+/project.lock.json
+wwwroot/_references.js
+wwwroot/js/app.js
+npm-debug.log
+*.suo
+*.user
+*.bundle.css
+*.bundle.min.css
+*.bundle.js
+*.bundle.min.js
